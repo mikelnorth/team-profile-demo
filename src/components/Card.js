@@ -1,4 +1,3 @@
-import headshot from "../assets/images/stock-head.jpeg";
 import './Card.scss';
 import { Link } from "react-router-dom";
 
