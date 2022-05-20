@@ -1,0 +1,12 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  padding: 25px;
+  background-color: d0d0d0;
+
+  p, img {
+    margin-bottom: 35px;
+  }
+}
+
